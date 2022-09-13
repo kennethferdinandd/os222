@@ -1,0 +1,13 @@
+# version:     "0026--06-Sep-2022"
+copyright:   "2022"
+author:      "kennethferdinandd"
+name:        "Kenneth Ferdinand"
+title:       "OS222: Operating Systems 2022-2"
+githublink:  "https://github.com/kennethferdinandd/os222/"
+myloglink:   "/TXT/mylog.txt"
+tarballlink: "https://os.vlsm.org/Log/kennethferdinandd.tar.bz2.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
