@@ -1,4 +1,4 @@
-opyright (C) 2020-2022 Cicak Bin Kadal
+Copyright (C) 2020-2022 Cicak Bin Kadal
 # This free script is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
