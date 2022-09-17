@@ -16,11 +16,11 @@ permalink: LINKS/
 
 ## Week 01
 1. [Linux Commands](https://linuxhint.com/100_essential_linux_commands)<br>
-This site helped me understanding Linux Commands.
+This site helped me to understand Linux Commands. So I can do my weekly assignments properly.
 
 ## Week 02
 1. [C Beginners](https://www.freecodecamp.org/news/the-c-beginners-handbook/)<br>
-This site helped me knowing more about C language.
+This site helped me to understand C language. You should read it if you are interested in C language
 
 <br>
 <hr>
