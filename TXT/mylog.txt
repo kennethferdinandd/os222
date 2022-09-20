@@ -22,4 +22,4 @@ ZCZC W02 10 L11 pull/push from github
 ZCZC W02 15 L03 Push updated mylog.txt
 ZCZC W02 100 L05 Study for quiz
 ZCZC W02 3 L05 Do the quiz
-ZCZC W02 45 L05 Search for quiz answer
+ZCZC W02 45 L05 Search for quiz answer after answering all the quiz
