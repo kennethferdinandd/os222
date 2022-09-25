@@ -26,4 +26,14 @@ ZCZC W02 45 L05 Search for quiz answer after answering all the quiz
 ZCZC W03 200 L02 ZOOM meetings
 ZCZC W03 30 L03 Github related
 ZCZC W03 60 L70 Studying for other courses
+ZCZC W03 10 L06 Reading references
+ZCZC W03 120 L11 Reading links for week 3 assignments
+ZCZC W03 60 L12 Doing task about virtual disk
+ZCZC W03 75 L13 Doing task about "Finishing"
+ZCZC W03 100 L05 Study and search references for Quiz02
+ZCZC W03 10 L05 Do Week03 Quiz (Quiz02)
+ZCZC W03 10 L11 pull/push from/to Github
+ZCZC W03 15 L03 Updated mylog.txt and push to Github
+ZCZC W03 45 L08 Ask about assignments to friend
+ZCZC W03 3 L05 Do Week03 Quiz (Quiz01)
 
