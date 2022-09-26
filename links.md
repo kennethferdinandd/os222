@@ -22,6 +22,10 @@ This site helped me to understand Linux Commands. So I can do my weekly assignme
 1. [C Beginners](https://www.freecodecamp.org/news/the-c-beginners-handbook/)<br>
 This site helped me to understand C language. You should read it if you are interested in C language
 
+## Week 03
+1. [Linux File Systems 101](https://likegeeks.com/linux-file-system/)<br>
+This site helped me to learn Linux File System. By learning this site, you can know more about Linux File Systems.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}
