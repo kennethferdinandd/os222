@@ -36,4 +36,15 @@ ZCZC W03 10 L11 pull/push from/to Github
 ZCZC W03 15 L03 Updated mylog.txt and push to Github
 ZCZC W03 45 L08 Ask about assignments to friend
 ZCZC W03 3 L05 Do Week03 Quiz (Quiz01)
-
+ZCZC W04 240 L02 ZOOM meetings
+ZCZC W04 30 L03 Github related
+ZCZC W04 120 L70 Studying for other courses
+ZCZC W04 10 L06 Reading references
+ZCZC W04 75 L11 Reading links for week 4 assignments
+ZCZC W04 30 L12 Compiling TLPI
+ZCZC W04 60 L13 Finishing task
+ZCZC W04 10 L05 Do OSQUIZ02
+ZCZC W04 10 L11 Push and pull from github
+ZCZC W04 3 L05 OS Quiz  
+ZCZC W04 100 L05 Research about Quiz 
+ZCZC W04 60 L08 Asking assignment to friends
