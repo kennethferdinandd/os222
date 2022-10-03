@@ -29,6 +29,9 @@ This site helped me to learn Linux File System. By learning this site, you can k
 ## Week 04 
 1. [Linux Shell Command](https://explainshell.com/)<br>
 This site is very helpful to me. It tells me how to check what linux shell command is. You should try to read it
+2. [Tutorial Makefile](https://makefiletutorial.com/)<br>
+This site helped me how to make a Makefile. It also tells me what is Makefile, etc.
+
 
 <br>
 <hr>
