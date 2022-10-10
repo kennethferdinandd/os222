@@ -32,6 +32,11 @@ This site is very helpful to me. It tells me how to check what linux shell comma
 2. [Tutorial Makefile](https://makefiletutorial.com/)<br>
 This site helped me how to make a Makefile. It also tells me what is Makefile, etc.
 
+## Week 05
+1. [NUMA Related](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)<br>
+This site explains the differences between UMA and NUMA. It helps me a lot and the website is very fun to read.
+2. [Functions in C Related](https://www.w3schools.com/c/c_functions.php#:~:text=A%20function%20is%20a%20block,and%20use%20it%20many%20times.)<br>
+This site explains me about how Functions work in C language. It's from W3Schools, you should start reading this.
 
 <br>
 <hr>
