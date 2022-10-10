@@ -48,3 +48,17 @@ ZCZC W04 10 L11 Push and pull from github
 ZCZC W04 3 L05 OS Quiz  
 ZCZC W04 100 L05 Research about Quiz 
 ZCZC W04 60 L08 Asking assignment to friends
+ZCZC W05 240 L02 ZOOM Meetings
+ZCZC W05 15 L06 Reading References
+ZCZC W05 120 L11 Reading Week 5 Assignment References
+ZCZC W05 60 L12 Lowering memory
+ZCZC W05 30 L08 Asking about assignments to friends
+ZCZC W05 80 L13 Downloading Script
+ZCZC W05 80 L14 Memory
+ZCZC W05 30 L15 Finishing assignment
+ZCZC W05 L05 OZ Quiz02
+ZCZC W05 L11 Pull and Push Github
+ZCZC W05 20 L03 Pushing and fixing mylog.txt
+ZCZC W05 3 L05 OZ Quiz1
+ZCZC W05 100 L05 Looking for references for Quiz1
+ZCZC W05 120 L70 Studying for other courses
