@@ -62,3 +62,16 @@ ZCZC W05 20 L03 Pushing and fixing mylog.txt
 ZCZC W05 3 L05 OZ Quiz1
 ZCZC W05 100 L05 Looking for references for Quiz1
 ZCZC W05 120 L70 Studying for other courses
+ZCZC W06 240 L02 Offline Classes
+ZCZC W06 15 L06 Reading References
+ZCZC W06 120 L11 Reading Week 6 Assignment References
+ZCZC W06 60 L12 Task 2
+ZCZC W06 30 L08 Asking about assignments to friends
+ZCZC W06 80 L13 Task 3
+ZCZC W06 110 L14 Finishing
+ZCZC W06 L05 OZ Quiz02
+ZCZC W06 L11 Pull and Push Github
+ZCZC W06 20 L03 Pushing and fixing mylog.txt
+ZCZC W06 3 L05 OZ Quiz1
+ZCZC W06 100 L05 Looking for references for Quiz1
+ZCZC W06 120 L70 Studying for other courses

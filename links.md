@@ -38,6 +38,13 @@ This site explains the differences between UMA and NUMA. It helps me a lot and t
 2. [Functions in C Related](https://www.w3schools.com/c/c_functions.php#:~:text=A%20function%20is%20a%20block,and%20use%20it%20many%20times.)<br>
 This site explains me about how Functions work in C language. It's from W3Schools, you should start reading this.
 
+# Week 06
+1. [Updgrade Kernel](https://linuxhint.com/upgrade-linux-kernel-version-debian-10/)<br>
+This site tells me how to upgrade my Kernel. It is very helpful to finish Week 6 Popquiz.
+2. [Process Scheduling 101](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+This site basically tells me about process scheduling. It is an important part of Multiprogramming.
+
+
 <br>
 <hr>
 <br>
