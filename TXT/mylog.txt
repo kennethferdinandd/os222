@@ -75,3 +75,11 @@ ZCZC W06 20 L03 Pushing and fixing mylog.txt
 ZCZC W06 3 L05 OZ Quiz1
 ZCZC W06 100 L05 Looking for references for Quiz1
 ZCZC W06 120 L70 Studying for other courses
+ZCZC W07 120 L05 Do POP Quiz
+ZCZC W07 200 L17 Do all assignment #07
+ZCZC W07 240 L99 Offline classes
+ZCZC W07 20 L05 Prepare and do Quiz2
+ZCZC W07 120 L05 Prepare and do Quiz1
+ZCZC W07 20 L03 Pushing and fixing mylog.txt
+ZCZC W07 120 L70 Studying for other courses
+ZCZC W07 30 L08 Asking about assignments to friends

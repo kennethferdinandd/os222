@@ -44,6 +44,12 @@ This site tells me how to upgrade my Kernel. It is very helpful to finish Week 6
 2. [Process Scheduling 101](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
 This site basically tells me about process scheduling. It is an important part of Multiprogramming.
 
+# Week 07
+1. [Synchronization](https://www.studytonight.com/operating-system/process-synchronizationhttps://www.studytonight.com/operating-system/process-synchronization)<br>
+This tutorial tells me the concept of process syncrhonization. It is useful to handle problems while there are multiple process executions
+2. [Deadlocks in OS](https://www.studytonight.com/operating-system/deadlocks)<br>
+This site explains me what are deadlocks. It is useful if you want to know more about deadlocks in OS.
+
 
 <br>
 <hr>
