@@ -50,6 +50,11 @@ This tutorial tells me the concept of process syncrhonization. It is useful to h
 2. [Deadlocks in OS](https://www.studytonight.com/operating-system/deadlocks)<br>
 This site explains me what are deadlocks. It is useful if you want to know more about deadlocks in OS.
 
+# Week 08
+1. [Scheduling in OS](https://binaryterms.com/scheduling-in-operating-system.html/)<br>
+This site tells me about scheduling in OS. If you want to know more about scheduling, you should read it!
+2. [LFS](https://www.linuxfromscratch.org/lfs/view/stable/)<br>
+This site tells me about how to make Linux From Scratch. It helps me in doing this week assignments.
 
 <br>
 <hr>

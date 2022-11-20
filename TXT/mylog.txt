@@ -83,3 +83,12 @@ ZCZC W07 120 L05 Prepare and do Quiz1
 ZCZC W07 20 L03 Pushing and fixing mylog.txt
 ZCZC W07 120 L70 Studying for other courses
 ZCZC W07 30 L08 Asking about assignments to friends
+ZCZC W08 20 L01 Keep updated about OS Info by checking SCELE 
+ZCZC W08 90 L18 Assignment #08: Reading and Demos
+ZCZC W08 15 L18 Assignment #08: Script Download
+ZCZC W08 275 L18 Assignment #08: Linux From Scratch Ch. 1-5
+ZCZC W08 70 L18 Assignment #08: Finishing
+ZCZC W08 30 L64 Helping a friend (OS related problem)
+ZCZC W08 20 L21 Trying new things
+ZCZC W08 110 L05 Quiz (studying n working)
+ZCZC W08 200 L02 Offline classes
