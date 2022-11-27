@@ -56,6 +56,13 @@ This site tells me about scheduling in OS. If you want to know more about schedu
 2. [LFS](https://www.linuxfromscratch.org/lfs/view/stable/)<br>
 This site tells me about how to make Linux From Scratch. It helps me in doing this week assignments.
 
+# Week 09
+1. [What is Firmware?](https://www.techtarget.com/whatis/definition/firmware/)<br>
+This site tells me what is actually firmware. The author explains about firmware's process, definition, etx.
+2. [What is bootloader?](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)<br>
+This site tells me about bootloader. The author explains in a very good way. You should read it!
+
+
 <br>
 <hr>
 <br>

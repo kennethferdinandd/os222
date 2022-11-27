@@ -92,3 +92,12 @@ ZCZC W08 30 L64 Helping a friend (OS related problem)
 ZCZC W08 20 L21 Trying new things
 ZCZC W08 110 L05 Quiz (studying n working)
 ZCZC W08 200 L02 Offline classes
+ZCZC W09 20 L01 Keep updated by SCELE
+ZCZC W09 100 L19 Assignment #09: Reading and Demos
+ZCZC W09 15 L19 Assignment #09: Script Download
+ZCZC W09 160 L19 Assignment #09: Linux From Scratch Ch. 6-7
+ZCZC W09 75 L19 Assignment #09: Finishing
+ZCZC W09 15 L64 Helping a friend (OS related problem)
+ZCZC W09 20 L21 Trying new things
+ZCZC W09 115 L05 Quiz (studying n working)
+ZCZC W09 200 L02 Offline classes
